@@ -6,13 +6,13 @@ Retech also offers computer, laptop, and PC construction and simulation services
 Laravel 7.x, PHP 7.x and MySQL Database were used to create this site.
 
 ## Instruction
-1. Make sure you have all the component needed to run this
-2. Clone this repository to your prefered folder
-3. Open .env.example and change it to .env
-4. Change the DB Connection setting to your prefered database
-5. Run "npm start" on terminal to download all the required packages.
-6. Run "php artisan migrate:fresh --seed" to populate all the table and some dummy data to the database
-7. Run "php artisan serve" to run the website
+1. Double-check that you have all of the necessary components to run this program.
+2. Make a clone of this repository in a folder of your choice.
+3. Rename the file of.env.example to.env
+4. Change the DB Connection in .env option to the database you want to use.
+5. In the terminal, type "npm start" to download all of the essential packages.
+6. Run "php artisan migrate:fresh —seed" to populate the database with all of the tables and some dummy data.
+7. To execute the website, type "php artisan serve" into the command prompt.
 
 
 ## About Laravel
