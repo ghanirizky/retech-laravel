@@ -1,9 +1,9 @@
 
 ## Retech
-Retech is marketplace that focuses on selling computer and laptop components. 
-Build using Laravel 7.x and PHP 7.x
+Retech is an online marketplace that sells computer and laptop parts.
+Retech also offers computer, laptop, and PC construction and simulation services.
 
-
+Laravel 7.x and PHP 7.x were used to create this site.
 
 
 ## About Laravel
