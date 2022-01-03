@@ -27,7 +27,7 @@ class HomeController extends Controller
     public function index()
     {
         $bestSeller = Product::with('category')->orderBy("sold", "DESC")->take(4)->get();
-        $ourProduct = Product::inRandomOrder()->limit(12)->get();
+        $ourProduct = Product::inRandomOrder()->limit(8)->get();
         
         return view('home.homepage', [
             'bestSeller' => $bestSeller,
