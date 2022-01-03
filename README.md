@@ -1,4 +1,8 @@
 
+##Retech
+Retech is marketplace that focuses on selling computer and laptop components. 
+Build using Laravel 7.x and PHP 7.x
+
 
 <p align="center">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
