@@ -7,7 +7,7 @@ Laravel 7.x, PHP 7.x and MySQL Database were used to create this site.
 
 ## Instruction
 1. Make sure you have all the component needed to run this
-2. Clone this repository to your prefred folder
+2. Clone this repository to your prefered folder
 3. Open .env.example and change it to .env
 4. Change the DB Connection setting to your prefered database
 5. Run "npm start" on terminal to download all the required packages.
