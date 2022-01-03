@@ -3,7 +3,16 @@
 Retech is an online marketplace that sells computer and laptop parts.
 Retech also offers computer, laptop, and PC construction and simulation services.
 
-Laravel 7.x and PHP 7.x were used to create this site.
+Laravel 7.x, PHP 7.x and MySQL Database were used to create this site.
+
+## Instruction
+1. Make sure you have all the component needed to run this
+2. Clone this repository to your prefred folder
+3. Open .env.example and change it to .env
+4. Change the DB Connection setting to your prefered database
+5. Run "npm start" on terminal to download all the required packages.
+6. Run "php artisan migrate:fresh --seed" to populate all the table and some dummy data to the database
+7. Run "php artisan serve" to run the website
 
 
 ## About Laravel
