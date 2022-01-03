@@ -1,0 +1,15 @@
+.img-product{
+    width: 200px;
+    height: 200px;
+}
+
+.category{
+    font-size: large;
+    font-weight: 900;
+    font-variant: small-caps;
+    
+}
+
+select { width: 350px; text-align-last:center; display: block;
+    margin: 0 auto; }
+

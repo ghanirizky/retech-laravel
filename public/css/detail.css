@@ -1,0 +1,51 @@
+
+a {
+    color: #4AB8B8;
+}
+
+.fill {
+    color: orange
+}
+
+.price{
+    color: #4AB8B8;
+}
+
+.btnDetail{
+    background-color: #124E61 ;
+}
+
+.pay-contents td{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.title{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.totalprice{
+    text-align: right;
+    vertical-align: middle;
+}
+
+.submitform{
+    text-align: right;
+}
+
+.panah{
+    font-size: 10px;
+    color: black;
+}
+
+.btnCancel:hover{
+
+    background-color: #124E61;
+    color: white;
+}
+
+/* .header-detail a{
+    width: 125px;
+} */
+
