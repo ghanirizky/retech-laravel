@@ -10,7 +10,7 @@ Laravel 7.x, PHP 7.x and MySQL Database were used to create this site.
 2. Make a clone of this repository in a folder of your choice.
 3. Rename the file of.env.example to.env
 4. Change the DB Connection in .env option to the database you want to use.
-5. In the terminal, type "npm start" to download all of the essential packages.
+5. In the terminal, type "npm install" to download all of the essential packages.
 6. Run "php artisan migrate:fresh —seed" to populate the database with all of the tables and some dummy data.
 7. To execute the website, type "php artisan serve" into the command prompt.
 
