@@ -6,7 +6,7 @@ Retech also offers computer, laptop, and PC construction and simulation services
 Laravel 7.x, PHP 7.x and MySQL Database were used to create this site.
 
 ## Instruction
-1. Double-check that you have all of the necessary components to run this program.
+1. Double-check that you have all of the necessary components to run this program including composer.
 2. Make a clone of this repository in a folder of your choice.
 3. Rename the file of.env.example to.env
 4. Change the DB Connection in .env option to the database you want to use.
